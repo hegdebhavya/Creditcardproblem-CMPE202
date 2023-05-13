@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CARDS>
+    <CARD>
+        <CARD_NUMBER>5567894523129089</CARD_NUMBER>
+        <CARD_TYPE>MasterCard</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>59012345678901234567890</CARD_NUMBER>
+        <CARD_TYPE>Invalid: more than 19 characters</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>4123456789123</CARD_NUMBER>
+        <CARD_TYPE>Visa</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>347856341908126</CARD_NUMBER>
+        <CARD_TYPE>AmericanExpress</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>6011111100007756</CARD_NUMBER>
+        <CARD_TYPE>Discover</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>3601112345678789</CARD_NUMBER>
+        <CARD_TYPE>Invalid: not a possible card</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>5167894523129089</CARD_NUMBER>
+        <CARD_TYPE>MasterCard</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>4123456789123999</CARD_NUMBER>
+        <CARD_TYPE>Visa</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>377856341908126</CARD_NUMBER>
+        <CARD_TYPE>AmericanExpress</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>5367894523129089</CARD_NUMBER>
+        <CARD_TYPE>MasterCard</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>6011*890HJrt6789</CARD_NUMBER>
+        <CARD_TYPE>Invalid: non numeric characters</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER/>
+        <CARD_TYPE>Invalid: empty/null Card number</CARD_TYPE>
+    </CARD>
+</CARDS>
