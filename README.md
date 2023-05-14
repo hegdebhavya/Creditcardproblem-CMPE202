@@ -55,11 +55,11 @@ The design implements ParserFactory and OutputWriter Factory to accommodate diff
 ## Part 3:
 The application is implemented using  Java and tested using JUint. It accepts input file name and output file name based on which it will generate the output.
 
-Application java code can be found [here](https://github.com/gopinathsjsu/individual-project-hegdebhavya/tree/main/src/main/java) <br>
-Application output screenshots are uploaded [here](https://github.com/gopinathsjsu/individual-project-hegdebhavya/tree/main/screenshots/output_screenshots) <br>
+Application java code can be found [here](https://github.com/hegdebhavya/Creditcardproblem-CMPE202/tree/main/src/main/java) <br>
+Application output screenshots are uploaded [here](https://github.com/hegdebhavya/Creditcardproblem-CMPE202/tree/main/screenshots/output_screenshots) <br>
 
-JUnit test cases can be found [here](https://github.com/gopinathsjsu/individual-project-hegdebhavya/tree/main/src/test/java) <br>
-JUnit screenshots are uploaded [here](https://github.com/gopinathsjsu/individual-project-hegdebhavya/tree/main/screenshots/tests_screenshots) <br>
+JUnit test cases can be found [here](https://github.com/hegdebhavya/Creditcardproblem-CMPE202/tree/main/src/test/java) <br>
+JUnit screenshots are uploaded [here](https://github.com/hegdebhavya/Creditcardproblem-CMPE202/tree/main/screenshots/tests_screenshots) <br>
 
 
 
